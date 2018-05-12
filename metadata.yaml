@@ -1,0 +1,38 @@
+_repo: Die-Gebete-der-Demut_40231
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Stadler, Ernst
+    alias: Stadler, Ernst Maria Richard
+    birthdate: 1883
+    deathdate: 1914
+    gutenberg_agent_id: '40497'
+    url: http://www.gutenberg.org/2009/agents/40497
+covers:
+- cover_type: archival
+  image_path: 40231-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Jammes, Francis
+    birthdate: 1868
+    deathdate: 1938
+    gutenberg_agent_id: '4702'
+    url: http://www.gutenberg.org/2009/agents/4702
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Francis_Jammes
+    - http://fr.wikipedia.org/wiki/Francis_Jammes
+description: ''
+gutenberg_bookshelf: DE Lyrik
+gutenberg_issued: '2012-07-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40231'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Religious poetry, French -- Translations into German'
+- !lcc 'PQ'
+title: Die Gebete der Demut
+url: http://www.gutenberg.org/ebooks/40231
