@@ -22,6 +22,8 @@ creator:
     - http://en.wikipedia.org/wiki/Francis_Jammes
     - http://fr.wikipedia.org/wiki/Francis_Jammes
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/40231#Die-Gebete-der-Demut
 gutenberg_bookshelf: DE Lyrik
 gutenberg_issued: '2012-07-14'
 gutenberg_type: Text
